@@ -1,0 +1,5 @@
+numpy
+tensorlflow
+matplotlib
+seaborn
+plotly
